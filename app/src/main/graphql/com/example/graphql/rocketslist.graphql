@@ -1,0 +1,10 @@
+query Rockets{
+    rockets {
+        active
+        boosters
+        cost_per_launch
+        company
+        country
+        description
+    }
+}
